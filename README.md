@@ -25,8 +25,8 @@ Details
 Screenshots
 -------
 ![AppScreenshot](Screenshots/App.png)
-![GetCertificates](Screenshots/GetCertificates.PNG)
-![GetClassesByType](Screenshots/GetClassesByType.PNG)
+![GetCertificates](Screenshots/GetCertificates.png)
+![GetClassesByType](Screenshots/GetClassesByType.png)
 ![WebAPI](Screenshots/WebAPI.png)
 -------
 
