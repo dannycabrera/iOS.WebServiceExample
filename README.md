@@ -17,6 +17,8 @@ Setup
 Details
 -------
 1. Solution consists of 3 projects
+	![](Screenshots/SolutionOverview.png)
+
 	- iOS.WebServiceExample.Common (Data model & sample data taken from http://xamarin.com/university)
 	
 	- iOS.WebServiceExample.iPhoneApp (Xamarin.iOS application)
