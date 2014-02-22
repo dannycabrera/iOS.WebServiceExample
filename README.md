@@ -6,6 +6,7 @@ Xamarin.iOS Web Service Example
 Introduction
 -------
 This sample shows how to connect to ASP.Net Web API from Xamarin.iOS to GET and POST some data.
+![AppScreenshot](Screenshots/App.png)
 
 Setup
 -------
@@ -21,14 +22,6 @@ Details
 	- iOS.WebServiceExample.iPhoneApp (Xamarin.iOS application)
 	- iOS.WebServiceExample.WebAPI (ASP.Net Web API)
 
-	
-Screenshots
--------
-![AppScreenshot](Screenshots/App.png)
-![GetCertificates](Screenshots/GetCertificates.png)
-![GetClassesByType](Screenshots/GetClassesByType.png)
-![WebAPI](Screenshots/WebAPI.png)
--------
 
 Xamarin Components Used
 -------
